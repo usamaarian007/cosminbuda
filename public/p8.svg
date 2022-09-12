@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Logotype 8</title>
+    <g id="Logotype-8" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-5" fill="#FFFFFF" fill-rule="nonzero">
+            <rect id="Rectangle" fill-opacity="0.9" x="0" y="0" width="32" height="32"></rect>
+            <polygon id="Path" points="0 32 32 32 0 64"></polygon>
+            <circle id="Oval" cx="48" cy="16" r="16"></circle>
+            <polygon id="Path" fill-opacity="0.9" points="32 32 64 32 32 64"></polygon>
+        </g>
+    </g>
+</svg>

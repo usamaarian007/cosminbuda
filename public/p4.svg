@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Logotype 4</title>
+    <g id="Logotype-4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M64,32 L64,48 C64,56.8365511 56.8365511,64 48,64 C39.1634489,64 32,56.8365511 32,48 C32,39.1634489 39.1634489,32 48,32 L64,32 Z M16,32 C24.8365511,32 32,39.1634489 32,48 L32,48 L32,64 L16,64 C7.16343467,64 0,56.8365511 0,48 C0,39.1634489 7.16343467,32 16,32 Z M16,0 C24.8365511,0 32,7.16343467 32,16 C32,24.8365511 24.8365511,32 16,32 L0,32 L0,16 C0,7.16343467 7.16343467,0 16,0 Z M48,0 C56.8365511,0 64,7.16343467 64,16 C64,24.8365511 56.8365511,32 48,32 C39.1634489,32 32,24.8365511 32,16 L32,16 L32,0 Z" id="Combined-Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+    </g>
+</svg>

@@ -1,0 +1,257 @@
+{"english":
+  {
+    "navbar": {
+      "h1": "What I do",
+      "h2": "Clients",
+      "h3": "About Me",
+      "h4": "Projects",
+      "h5": "Contact"
+    },
+    "Intro": {
+      "h1": "I'm Stephen Lorem.",
+      "p1": "A graphic designer from London. I work with agencies and brands to bring ideas to life.",
+      "h2": "About",
+      "p2": "My  goal is to create stunning graphics for both digital and print media. Below you'll find links to some of the places where I show off on a regular basis.",
+      "arr":["DRIBBLE", "BEHANCE", "INSTAGRAM"],
+      "e":"Skills",
+      "e2":"Certificates"
+
+    },
+    "WhatIDo": {
+      "wh":"What I do",
+    "data" : [
+        {
+          "icon": "pen.svg",
+          "name": "Brand design.",
+          "des": "Looking at your product and the market in which it exists, we work together to design a brand that communicates your strengths."
+        },
+        {
+          "icon": "nokpen.svg",
+          "name": "Website design.",
+          "des": "Transforming your existing communications is a   strategy into digital form, based on modern web technologies and beautiful design."
+        },
+        {
+          "icon": "scale.svg",
+          "name": "Print design.",
+          "des": "Adapting your communication into printed form, making sure that each color and vector is up to the task, be it on a button ."
+        },
+        {
+          "icon": "nokpen.svg",
+          "name": "Website design.",
+          "des": "Transforming your existing communications is a   strategy into digital form, based on modern web technologies and beautiful design."
+        },
+        {
+          "icon": "pen.svg",
+          "name": "Brand design.",
+          "des": "Looking at your product and the market in which it exists, we work together to design a brand that communicates your strengths."
+        }
+      ]
+    },
+    "PreviousClients": {
+      "h1": " Clients",
+      "p1": "Here are some of the clients I've worked with previously."
+    },
+    "Tools": {
+      "h1": "The tools.",
+      "p1": "The technologies that I use when bringing your ideas to life in digital form.",
+      "data" : [
+        {
+            "img":"z1.svg",
+            "name":"Webflow"
+        },
+        {
+          "img":"z2.svg",
+          "name":"Sketch"
+      },
+      {
+          "img":"z3.svg",
+          "name":"Figma"
+      },
+      {
+          "img":"z4.svg",
+          "name":"Adobe Photoshop"
+      },
+      {
+          "img":"z5.svg",
+          "name":"Adobe Illustrator"
+      }
+      
+  
+    ]
+  
+    },
+    "WorkExamples": {
+      "h1": "Projects",
+      "p1": "Some example of work I've done for clients previously.",
+      "h": "Print for Sit Amet.",
+      "h2": "Newspaper design for Dolor Sit.",
+      "h3": "App Design for Ipsum App Co.",
+      "h4": "App wireframes for Execetur Sit.",
+      "h5": "Lo-fi wireframes for Dolor Co.",
+      "h6": "Sketches for Dolor Sit.",
+      "h7": "Newspaper design for Dolor Sit.",
+      "h8": "App Design for Ipsum App Co.",
+      "h9": "App wireframes for Execetur Sit.",
+      "h10": "Lo-fi wireframes for Dolor Co."
+
+    },
+    "Contact": {
+      "h1": "Contact",
+      "p1": "Have a project that could use a skilled designer hand? Get in touch!",
+      "h2": "First Name *",
+      "h5": "Last Name",
+      "h3": "Phone number",
+      "h4": "Email *",
+      "h6": "Message *"
+    },
+    "footer": {
+      "h1": "PAGES",
+       "arr" : [
+        "Start",
+        "Licenses",
+        "Instructions",
+        "Style guide",
+        "Changelog",
+        "404"
+      ],
+      "h8": "LINKS",
+      "h9": "NEWSLETTER",
+      "p1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.",
+      "p2": "© Stephen Lorem, LLC. All rights reserved. Powered by Webflow."
+    },
+    "ProjectDetail": {
+      "h1": "Project Detail.",
+      "p1": "App wireframes for Execetur Sit.",
+      "p2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, error illo ipsa rem sequi provident eligendi deleniti, inventore explicabo id suscipit magni animi quidem atque nostrum. Aspernatur iusto earum temporibus. Dolores minima nulla culpa maxime dignissimos, consequuntur distinctio explicabo, ad saepe modi, perspiciatis autem facere eum voluptatibus odio ratione dolor natus labore provident. Eaque atque nisi, velit ipsam voluptate ratione. Neque et repellat at totam sed obcaecati, pariatur dolor voluptas consectetur repellendus perspiciatis sequi natus laudantium praesentium unde molestiae ipsum beatae deserunt consequatur. Voluptatem, reprehenderit ex perferendis repellendus vero illum...",
+      "b1": "Read More"
+    }
+  },
+
+"french" : {
+  
+    "navbar": {
+      "h1": "Lo que hago",
+      "h2": "Témoignages",
+      "h3": "Instrumentos",
+      "h4": "ejemplo de trabajo",
+      "h5": "Contacto"
+    },
+    "Intro": {
+      "h1": "Je suis Stephen Lorem.",
+      "p1": "Un graphiste de Londres. Je travaille avec des agences et des marques pour donner vie à des idées.",
+      "h2": "Bonjour.",
+      "p2": "Mon objectif est de créer des graphismes époustouflants pour les médias numériques et imprimés. Vous trouverez ci-dessous des liens vers certains des endroits où je m'exhibe régulièrement.",
+      "arr":["DRIBBLE", "BEHANCE", "INSTAGRAM"],
+"e":"compétences",
+"e2":"Certificats"
+
+    },
+    "WhatIDo": {
+      "wh":"Lo que hago",
+      "data" : [
+        {
+          "icon": "pen.svg",
+          "name": "Conception de la marque",
+          "des": "En examinant votre produit et le marché dans lequel il existe, nous travaillons ensemble pour concevoir une marque qui communique vos points forts"
+        },
+        {
+          "icon": "nokpen.svg",
+          "name": "Conception de site Web.",
+          "des": "Transformer votre stratégie de communication existante en une forme numérique, basée sur des technologies Web modernes et un beau design."
+        },
+        {
+          "icon": "scale.svg",
+          "name": "Design d'impression.",
+          "des": "Adapter votre communication sous forme imprimée, en veillant à ce que chaque couleur et vecteur soit à la hauteur de la tâche, que ce soit sur un bouton ou un panneau d'affichage."
+        }
+      ]
+    
+      
+    },
+    "PreviousClients": {
+      "h1": "Clients précédents",
+      "p1": "Voici quelques-uns des clients avec lesquels j'ai travaillé auparavant."
+    },
+    "Tools": {
+      "h1": "Les outils.",
+      "p1": "Les technologies que j'utilise pour donner vie à vos idées sous forme numérique.",
+
+      "data" : [
+        {
+            "img":"z1.svg",
+            "name":"Flux Web"
+        },
+        {
+          "img":"z2.svg",
+          "name":"Esquisser"
+      },
+      {
+          "img":"z3.svg",
+          "name":"Figma"
+      },
+      {
+          "img":"z4.svg",
+          "name":"Adobe Photoshop"
+      },
+      {
+          "img":"z5.svg",
+          "name":"Adobe Illustrator"
+      }
+      
+  
+    ]
+
+
+    },
+    "WorkExamples": {
+      "h1": "Exemples de travail.",
+      "p1": "Quelques exemples de travaux que j'ai déjà effectués pour des clients.",
+      "h": "Imprimer pour Sit Amet.",
+      "h2": "Conception de journaux pour Dolor Sit.",
+      "h3": "Conception d'applications pour elle-même App Co.",
+      "h4": "Wireframes App pour Execetur Sit.",
+      "h5": "Wireframes Lo-Fi pour Dolor Co.",
+      "h6": "Esquisses pour Dolor Sit.",
+        "h7": "Conception d'applications pour elle-même App Co.",
+      "h8": "Wireframes App pour Execetur Sit.",
+      "h9": "Wireframes Lo-Fi pour Dolor Co.",
+      "h10": "Esquisses pour Dolor Sit."
+    },
+    "Contact": {
+      "h1": "Contact",
+      "p1": "Vous avez un projet qui pourrait utiliser une main de designer qualifiée ? Entrer en contact!",
+      "h2": "Nom",
+      "h3": "Numéro de téléphone",
+      "h4": "E-mail",
+      "h5": "Compagnie",
+      "h6": "Message"
+    },
+    "footer": {
+      "h1": "PAGES",
+
+      "arr" : [
+        "Commencer",
+        "Licenses",
+        "Des instructions",
+        "Guide de style",
+        "ournal des modifications",
+        "404"
+      ],
+
+
+      
+      "h8": "LIENS",
+      "h9": "BULLETIN",
+      "p1": "Le client est très important, le client sera suivi par le client. En fait, le facteur de stress dans l'éros est l'élément triste.",
+      "p2": "© Stephen Lorem, LLC. Tous les droits sont réservés. Propulsé par Webflow."
+    },
+    "ProjectDetail": {
+      "h1": "Project Detail.",
+      "p1": "Wireframes d'application pour Execetur Sit.",
+      "p2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, error illo ipsa rem sequi provident eligendi deleniti, inventore explicabo id suscipit magni animi quidem atque nostrum. Aspernatur iusto earum temporibus. Dolores minima nulla culpa maxime dignissimos, consequuntur distinctio explicabo, ad saepe modi, perspiciatis autem facere eum voluptatibus odio ratione dolor natus labore provident. Eaque atque nisi, velit ipsam voluptate ratione. Neque et repellat at totam sed obcaecati, pariatur dolor voluptas consectetur repellendus perspiciatis sequi natus laudantium praesentium unde molestiae ipsum beatae deserunt consequatur. Voluptatem, reprehenderit ex perferendis repellendus vero illum...",
+      "b1": "Lire la suite"
+    }
+  }
+    
+
+}
